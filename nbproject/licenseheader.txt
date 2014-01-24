@@ -1,9 +1,0 @@
-<#if licenseFirst??>
-${licenseFirst}
-</#if>
-${licensePrefix}@author Michal Schweichler <michal.schweichler@gmail.com>
-${licensePrefix}
-${licensePrefix}@license http://www.gnu.org/licenses/lgpl-3.0.txt GNU Lesser General Public License
-<#if licenseLast??>
-${licenseLast}
-</#if>
